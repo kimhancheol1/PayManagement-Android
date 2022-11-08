@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id">아이디를 입력해주세요</string>
+    <string name="pw">비밀번호를 입력해주세요</string>
+</resources>
